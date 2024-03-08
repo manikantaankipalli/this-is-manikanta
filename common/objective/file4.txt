@@ -1,0 +1,4 @@
+m=man
+n=nature
+o=orange
+
