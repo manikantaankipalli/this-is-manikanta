@@ -1,0 +1,4 @@
+s=apple
+t=mango
+u=pine apple
+
